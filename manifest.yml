@@ -1,0 +1,15 @@
+modules:
+  jira:issuePanel:
+    - key: hackathon-hello-world-panel
+      function: main
+      title: Hackathon
+      icon: https://developer.atlassian.com/platform/forge/images/icons/issue-panel-icon.svg
+  function:
+    - key: main
+      handler: index.run
+app:
+  id: ari:cloud:ecosystem::app/5e36e9f3-f354-45f7-9185-5788dd172a65
+permissions:
+  scopes:
+    - read:jira-work
+    
