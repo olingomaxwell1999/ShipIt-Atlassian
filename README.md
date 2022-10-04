@@ -35,3 +35,10 @@ forge tunnel
 ## Support
 
 See [Get help](https://developer.atlassian.com/platform/forge/get-help/) for how to get help and provide feedback.
+
+## To Make The App More Versatile
+
+- Forge UI Components
+- Show Modal on comment/save
+- Incorporate mentions 
+- Check for file extensions (.jpg, .jpeg, .pdf, .png, .xlxs, .webp...etc) and attachments
